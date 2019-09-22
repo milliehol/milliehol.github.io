@@ -1,11 +1,11 @@
 # Site settings
 author: Carla Holcomb
-title: 
+title: Carla's Blog
 header-img: img/home-bg.png
 email: carla.programmer@gmail.com
 copyright_name: Carla Holcomb
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My programming trials and triumps
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  milliehol
